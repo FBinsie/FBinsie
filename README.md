@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics Development / Software Development (microcontroller/Windows/Android Based / Math
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on firmware microcontrollers/windows desktop software
-- 📫 How to reach me ...
+- 📫 How to reach me frankbinsbergen@hetnet.nl
 
 <!---
 FBinsie/FBinsie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
